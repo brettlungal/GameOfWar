@@ -15,6 +15,7 @@ class War {
         gameDeck.shuffle();
         deal();
         beginWar();
+        //newstuff
     }
 
     public static void beginWar(){
